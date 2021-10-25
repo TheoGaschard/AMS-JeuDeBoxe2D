@@ -1,0 +1,22 @@
+Liste de interactions :
+
+
+Service Player :
+  Entrées:
+  
+  
+  Sorties:
+
+
+Service Prediction :
+  Entrées:
+  
+  
+  Sorties:
+
+
+Service Room :
+  Entrées:
+  
+  
+  Sorties:
